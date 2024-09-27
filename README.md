@@ -1,1 +1,1 @@
-# To-Do-AsyncStorage-React-Native
+# Zde naleznete hlavní soubory aplice ToDo (AsyncStorage)
